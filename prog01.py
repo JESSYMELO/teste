@@ -1,0 +1,2 @@
+texto = ('"Bonito é melhor que feio.\n Explícito é melhor que implícito. \n Simples é melhor que complexo.\n Complexo é melhor que complicado.\n Linear é melhor do que aninhado.\n Esparso é melhor que denso.\n Legibilidade conta.”')
+print (texto)
